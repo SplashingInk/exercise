@@ -18,7 +18,7 @@ public class User {
     private String  username;
     private Integer age;
     private Character sex;
-    
+
     public void hello(){
         System.out.println("hello");
         int i=10;
