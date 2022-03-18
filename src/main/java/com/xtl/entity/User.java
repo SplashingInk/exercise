@@ -21,9 +21,10 @@ public class User {
     
     public void hello(){
         System.out.println("hello");
-	int i=10;
-	for(int j=0;j<i;j++){
-		System.out.println(j)		  
-	}
+        int i=10;
+        for(int j=0;j<i;j++){
+            System.out.println(j);
+        }
+        System.out.println("hello，测试修改");
     }
 }
