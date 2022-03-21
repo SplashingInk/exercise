@@ -7,7 +7,7 @@ import lombok.NoArgsConstructor;
 
 /**
  * @ClassName User
- * @Description TODO
+ * @Description 用户实体类
  * @Author xtl
  * @Date 2022/3/18 11:42
  */
