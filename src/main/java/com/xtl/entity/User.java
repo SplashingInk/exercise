@@ -1,6 +1,7 @@
 package com.xtl.entity;
 
 import lombok.AllArgsConstructor;
+import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
@@ -10,6 +11,7 @@ import lombok.NoArgsConstructor;
  * @Author xtl
  * @Date 2022/3/18 11:42
  */
+@Builder
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
