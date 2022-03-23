@@ -17,9 +17,9 @@ public class SeasonEnumTest {
         SeasonEnum summer = SeasonEnum.SUMMER;
         System.out.println(summer.getSeq());
     }
-    
+
     @Test
-    public void test2(){
+    public void test2() {
         System.out.println(SeasonEnum.AUTUMN);
         System.out.println(SeasonEnum.WINTER.getSeq());
     }
