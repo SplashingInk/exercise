@@ -15,5 +15,6 @@ public class TeacherTest {
     public void testTeacher() {
         Teacher teacher = Teacher.builder().id(1).name("陆林轩").password("123456").age(25).build();
         System.out.println(teacher);
+        System.out.println("hello,teacher");
     }
 }
